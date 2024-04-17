@@ -1,0 +1,14 @@
+.body {
+    margin-top: 35px;
+}
+
+.jobs {
+    display: flex;
+    list-style-type: none;
+    margin: 20px 0px 0px 0px;
+    padding: 0;
+}
+
+.space {
+    margin-right: 30px;
+}
